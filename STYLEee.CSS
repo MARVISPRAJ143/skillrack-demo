@@ -1,0 +1,114 @@
+body{
+	background:mediumpurple;
+}
+.navigate{
+	color:white;
+	background-color:#1e1e1e;
+	display:flex;
+	justify-content: center;
+	align-content: center;
+	justify-content:center;
+	gap:20px;
+	flex-direction: row;
+
+}
+
+.parent{
+	padding:1rem;
+	background-color: orangered;
+	display: flex;
+	margin: 10px;
+	justify-content:center;
+	height: 50px;
+	width: auto;
+	border: darkolivegreen solid;
+	border-style: double;
+}
+.to-be-aligned{
+	height: auto;
+	width: 100px;
+	border-radius: 1 rem;
+	background-color: lawngreen;
+	border:dodgerblue; solid;
+	border-style: dashed;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: palevioletred;
+
+
+}
+.nav-top-level{
+	gap:3rem;
+	height: auto;
+	padding: 2rem;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	color: white;
+	background-color: #1e1e1e;
+
+}
+.ass{
+	color: hotpink;
+	background-color: beige;
+	
+	height:150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+
+}
+.boombox{
+	display: flex;
+	width:auto;
+
+}
+.boom{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 50%;
+	padding: 1rem;
+	color: darkblue;
+
+}
+.box{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 50%;
+	padding: 1rem;
+	color: deeppink;
+
+}
+.bo{
+	background-color:yellow;
+	color: saddlebrown;
+	height:3rem;
+	border-radius: .25rem;
+	font-weight: 700;
+	padding:1 rem;
+}
+.bx{
+	background-color:saddlebrown;
+	color: yellow;
+	height:3rem;
+	border-radius: .25rem;
+	font-weight: 700;
+	padding:1 rem;
+}
+.nav-pair{
+	display: flex;
+	align-items: center;
+	gap: 0.5 rem;
+}
+.suth{
+	background-color:ghostwhite;
+	color: mediumvioletred;
+	height:3rem;
+	border-radius: .25rem;
+	font-weight: 700;
+	padding:1 rem;
+}
